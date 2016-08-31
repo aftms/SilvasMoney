@@ -1,2 +1,2 @@
 # SilvasMoney
-Getsão financeira
+Gestão financeira
